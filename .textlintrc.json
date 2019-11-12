@@ -1,0 +1,30 @@
+{
+  "filters": {},
+  "rules": {
+    "no-todo": true,
+    "en-capitalization": true,
+    "alex": {
+        "allow": []
+    },
+    "write-good": {
+      "passive": true,
+      "thereIs": true,
+      "so": true,
+      "tooWordy": true,
+      "cliche": true,
+      "adverb": true
+    },
+    "stop-words": {
+      "defaultWords": true,
+      "skip": [],
+      "words": [],
+      "exclude": []
+    },
+    "spellchecker": {
+      "skipWords": ["JavaScript", "ECMAScript", "Algolia", "Atabix", "Adyen"],
+      "skipRegExps": ["(?:[a-z]+)Script"],
+      "skipNodeTypes": ["Comment"]
+    },
+    "terminology": true
+  }
+}
