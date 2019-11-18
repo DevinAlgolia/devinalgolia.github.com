@@ -3,4 +3,4 @@ tags:
     - 
 ---
 # Coming soon
-This is awkward, there are no posts yet... Come back here soon!
+There are no posts yet, but come back soon!

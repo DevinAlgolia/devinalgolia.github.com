@@ -2,6 +2,7 @@
 tags:
     - Frontman
     - Algolia
+    - Documentation
 date: 05-28-2019
 ---
 # Scaling with(out) Middleman

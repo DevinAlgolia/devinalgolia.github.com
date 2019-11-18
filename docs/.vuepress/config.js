@@ -1,6 +1,6 @@
 module.exports = {
     title: 'd11s',
-    description: 'Personal blog',
+    description: 'Devin Beeuwkes\' personal blog' ,
     theme: '@vuepress/theme-blog',
     themeConfig: {
         modifyBlogPluginOptions: (options) => {
