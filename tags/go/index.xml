@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>go on Devin</title>
+    <link>/tags/go/</link>
+    <description>Recent content in go on Devin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>fmt format cheatsheet</title>
+      <link>/post/fmt-format-cheatsheet/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/fmt-format-cheatsheet/</guid>
+      <description>This cheatsheet is a simplified list of all the verbs you can use in fmt methods that accept a format, such as fmt.Printf and fmt.Sprintf.
+Numbers  %d - decimal integer %x - hexadecimal integer %o - octal integer %b - binary integer %f - float (3.141593) %g - float (3.141592653589793) %e - float (3.141593e+00)  Text  %s - string %c - rune (Unicode code point) %q - quoted string or rune (&amp;ldquo;string value&amp;rdquo;)  Misc  %t - boolean %T - the type of any value %% - percentage sign %v - any value in a natural format  </description>
+    </item>
+    
+  </channel>
+</rss>
